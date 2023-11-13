@@ -10,11 +10,12 @@ public class EliminarConfiguracion : MonoBehaviour
         EliminarObjetoPorNombre("MarcoCelosia(Clone)");
         EliminarObjetoPorNombre("MarcoProyectante(Clone)");
         //Vidrios
-        EliminarObjetoPorNombre("Normal(Clone)");
-        EliminarObjetoPorNombre("Laminado(Clone)");
-        EliminarObjetoPorNombre("Semilla(Clone)");
-        EliminarObjetoPorNombre("Termopanel5mm(Clone)");
-        EliminarObjetoPorNombre("Termopanel4mm(Clone)");
+        EliminarObjetoPorNombre("VidrioNormal(Clone)");
+        EliminarObjetoPorNombre("VidrioLaminado(Clone)");
+        EliminarObjetoPorNombre("VidrioSemilla(Clone)");
+        EliminarObjetoPorNombre("VidrioTermopanel5mm(Clone)");
+        EliminarObjetoPorNombre("VidrioTermopanel4mm(Clone)");
+        EliminarObjetoPorNombre("VidrioTermopanel(Clone)");
         //Cierres
         EliminarObjetoPorNombre("CierreBrazoyManilla(Clone)");
         EliminarObjetoPorNombre("CierreCaracol(Clone)");
